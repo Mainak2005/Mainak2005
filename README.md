@@ -1,41 +1,56 @@
 # 👋 Hi there, I'm Mainak!
 
-🎓 I'm currently pursuing my **B.Tech** and I'm passionate about everything related to **Data Analytics**, **Business Intelligence**, and **Data-Driven Problem Solving**
+🎯 **Data Scientist | Machine Learning Enthusiast | AI Explorer**
 
-## 🧠 About Me
-
-I'm an enthusiastic learner, building my skills in:
-- **Data Analysis** using **SQL**, **Excel**, and **Python**
-- **Data Visualization** with **Power BI** and **Tableau**
-- Understanding **statistics**, **data storytelling**, and **real-world analytics problems**
-
-My goal is to become a **data analyst** who can extract insights from data and turn them into actionable strategies that drive impact.
-
-## 🔨 Tools & Technologies I Use
-
-| 🛠️ Tools          | 📈 Analytics Stack |
-|------------------|--------------------|
-| MySQL / PostgreSQL | SQL Queries, Joins, Aggregates |
-| Microsoft Excel   | Pivot Tables, VLOOKUP, Charts |
-| Power BI / Tableau | Dashboards, Reports, KPIs |
-| Python (Basic)    | Pandas, Matplotlib (learning) |
+Welcome to my GitHub profile! I'm passionate about turning data into actionable insights, building robust ML models, and creating AI-driven solutions that solve real-world problems.
 
 
-## 🚀 Currently Learning
+## 🔍 About Me
 
-- 📌 Python for Data Analytics  
-- 📌 Advanced SQL & Joins  
-- 📌 Real-world Data Cleaning  
-- 📌 Dashboard Design Best Practices
-
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mainak-ball) 
-- 💻 [GitHub](https://github.com/Mainak@2005)
-- 📧 mainakbal6@gmail.com
+- 💼 Currently pursuing/working in the field of **Data Science**
+- 🤖 Experienced in **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**
+- 🛠️ Skilled in building and deploying **end-to-end ML pipelines**
+- 📊 Fascinated by data-driven decision-making and automation
+- ✍️ Constantly learning and experimenting with new tools and technologies
 
 ---
+
+## 🧠 Skills & Tools
+
+**Languages & Libraries**  
+`Python` | `SQL` | `R` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `NLTK` | `TensorFlow` | `Keras` | `PyTorch`
+
+**Tools & Platforms**  
+`Git` | `Jupyter Notebook` | `VS Code` | `Google Colab` | 
+
+**Specializations**  
+- 🧹 Data Cleaning & Preprocessing  
+- 📈 Exploratory Data Analysis (EDA)  
+- 🤖 Supervised & Unsupervised Learning  
+- 🧠 Deep Learning & Neural Networks  
+- 🗣️ Natural Language Processing  
+- 📦 Model Deployment & API Integration
+
+---
+
+## 📁 Featured Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| 📰 **Fake News Detector** | ML model to detect whether a news article is real or fake using NLP & TF-IDF. |
+| 📊 **Customer Segmentation** | K-means clustering on customer data to group based on behavior. |
+| 🧠 **Sentiment Analyzer** | Classifies sentiment from text using LSTM and word embeddings. |
+| 🏥 **Diabetes Prediction** | Logistic regression and decision trees used to predict diabetes likelihood. |
+
+
+
+
+
+
+
+*Thanks for stopping by! Feel free to explore my projects or reach out for collaborations.* 😊
+
+
 
 > ✨ *“Without data, you’re just another person with an opinion.” – W. Edwards Deming*
 
